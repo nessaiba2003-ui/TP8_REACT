@@ -22,5 +22,7 @@ Composant avec Axios : Mise en pratique avec la bibliothèque tierce.
 <img width="932" height="540" alt="Screenshot 2026-03-11 131630" src="https://github.com/user-attachments/assets/d7cc54a0-5315-45d4-96c9-b778b3edadd6" />
 <img width="868" height="556" alt="Screenshot 2026-03-11 131639" src="https://github.com/user-attachments/assets/6c9d916c-759d-440e-bb0d-88eab888ea93" />
 <img width="895" height="538" alt="Screenshot 2026-03-11 131910" src="https://github.com/user-attachments/assets/394ea52e-a622-4694-b228-4f015043807c" />
+   <img width="285" height="652" alt="image" src="https://github.com/user-attachments/assets/e39bde4a-a51b-4096-8a48-1b6d71d6e893" />
+
 
 
